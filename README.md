@@ -1,1 +1,3 @@
-# .github
+# becycure
+
+GitHub Organization for Becycure
